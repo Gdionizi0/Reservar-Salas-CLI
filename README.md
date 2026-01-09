@@ -52,7 +52,7 @@ reserva-salas/
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/reserva-salas.git
+git clone https://github.com/Gdionizi0/reserva-salas.git
 ````
 
 ### 2️⃣ Acessar a pasta do projeto
